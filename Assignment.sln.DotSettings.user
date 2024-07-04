@@ -1,0 +1,55 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.DataSetExtensions.dll" /&gt;&#xD;
+  &lt;PhysicalFolder Path="D:\WorkSpaces\VsProjects\Assignment" Loaded="True" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b383ebeb_002D1f56_002D4eb3_002Db9c7_002D98abf18bca83/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BulkProcessTestClass #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BulkProcessTestClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogsMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=db5fd326_002Dabd9_002D4fd6_002Dabc3_002D74e509240164/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BulkProcessTestClass #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BulkProcessTestClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogsMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessingDoNotAddNewJobTypesInDb&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessMustReturnProcessSuccessful&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessMustReturnValidationFailed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessMustReturnUnSupportedFailed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessMustReturnProcessFailedDueAccountHasALittleMoney&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e1e41a6c_002D4dad_002D4bed_002D8559_002Deaa844d9c2da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BulkProcessTestClass" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BulkProcessTestClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogsMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5d94fd1_002D7944_002D4d05_002Db9ec_002D6cb4da40377b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BulkProcessTestClass #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BulkProcessTestClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogsMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessingDoNotAddNewJobTypesInDb&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessMustReturnProcessSuccessful&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessMustReturnValidationFailed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessMustReturnUnSupportedFailed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BatchProcessTestClass.BatchProcessMustReturnProcessFailedDueAccountHasALittleMoney&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f9089ce3_002D7706_002D4ce0_002D8f42_002Da59f111bc68f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BulkProcessTestClass #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.ServiceTests.BulkProcessTestClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A024D53E-134B-4CB6-84D0-EBCE14E5105B::.NETFramework,Version=v4.8.1::Assignment.Tests.LogTests.JobLogTestClass.LogsMustBeWrittenCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
